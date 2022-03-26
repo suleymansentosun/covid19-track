@@ -2,7 +2,7 @@
 
 This is a website where you can examine covid-19 data all over the world and in individual countries, and compare these data between countries.
 
-In this single page application, you can
+In this single page application,
 
 1. You can see the number of daily cases, deaths and recovered patients worldwide.
 2. You can see the daily number of cases, deaths and recovered patients for each country separately.
