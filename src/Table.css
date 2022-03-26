@@ -1,0 +1,29 @@
+.table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    overflow: scroll;
+    height: 400px;
+    color: #6a5d5d;
+    border-collapse: collapse;
+}
+
+.table th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+.table tr:nth-of-type(odd) {
+    background-color: #f3f2f8;
+}
+
+@media (max-width: 600px) {
+    .table th, td {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 400px) {
+    .table th, td {
+        font-size: 10px;
+    }
+}
